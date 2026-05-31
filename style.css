@@ -10,3 +10,17 @@ body {
     color: white;
     text-align: center;
 }
+
+h1 {
+    font-size: 64px;
+    text-shadow: 4px 4px 0px #000;
+}
+
+button {
+    background: #55aa55;
+    color: white;
+    border: none;
+    padding: 15px 40px;
+    font-size: 24px;
+    cursor: pointer;
+}
